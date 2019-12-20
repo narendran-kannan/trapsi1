@@ -1,0 +1,30 @@
+.head1 {
+    color: greenyellow;
+    font-size: 40px;
+}
+
+
+
+#first{
+    background-color: aqua;
+    
+
+}
+
+#first p{
+    line-height: 25px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+
+}
+
+#second{
+    
+    background-color: brown;
+    
+}
+
+
+
